@@ -1,1 +1,1 @@
-{"version":3,"file":"1-gallery.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"1-gallery.js","sources":["../src/js/1-gallery.js"],"sourcesContent":["document.addEventListener('DOMContentLoaded', () => {\n  console.log('JS працює!');\n});\n"],"names":[],"mappings":"wFAAA,SAAS,iBAAiB,mBAAoB,IAAM,CAClD,QAAQ,IAAI,YAAY,CAC1B,CAAC"}
